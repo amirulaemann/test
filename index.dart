@@ -1,5 +1,5 @@
 void main() {
-  var obj = ["try", 13, 14];
+  var obj = [12, 13, 14];
 
   for (var prop in obj) {
     var newprop = prop = 5;
